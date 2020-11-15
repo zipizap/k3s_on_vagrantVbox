@@ -1,0 +1,3 @@
+kubeconfig.k3s.yaml
+.vagrant
+istio-*.*.*
